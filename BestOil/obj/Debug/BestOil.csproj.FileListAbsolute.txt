@@ -1,0 +1,11 @@
+D:\ITSTEP\WINFORMS_HW\BestOil\BestOil\bin\Debug\BestOil.exe
+D:\ITSTEP\WINFORMS_HW\BestOil\BestOil\bin\Debug\BestOil.pdb
+D:\ITSTEP\WINFORMS_HW\BestOil\BestOil\obj\Debug\BestOil.csprojResolveAssemblyReference.cache
+D:\ITSTEP\WINFORMS_HW\BestOil\BestOil\obj\Debug\BestOil.MainForm.resources
+D:\ITSTEP\WINFORMS_HW\BestOil\BestOil\obj\Debug\BestOil.Properties.Resources.resources
+D:\ITSTEP\WINFORMS_HW\BestOil\BestOil\obj\Debug\BestOil.csproj.GenerateResource.Cache
+D:\ITSTEP\WINFORMS_HW\BestOil\BestOil\obj\Debug\BestOil.csproj.CoreCompileInputs.cache
+D:\ITSTEP\WINFORMS_HW\BestOil\BestOil\obj\Debug\BestOil.exe
+D:\ITSTEP\WINFORMS_HW\BestOil\BestOil\obj\Debug\BestOil.pdb
+d:\ITSTEP\WINFORMS_HW\BestOil\BestOil\bin\Debug\BestOil.exe.config
+D:\ITSTEP\WINFORMS_HW\BestOil\BestOil\obj\Debug\BestOil.csproj.ResolveComReference.cache
